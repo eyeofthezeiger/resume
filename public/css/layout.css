@@ -325,87 +325,102 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.java {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.angular {
+  	width: 48%;
+  	-moz-animation: angular 2s ease;
+  	-webkit-animation: angular 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.react {
+  	width: 40%;
+  	-moz-animation: react 2s ease;
+  	-webkit-animation: react 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 70%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 65%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.sketch {
+  	width: 38%;
+  	-moz-animation: sketch 2s ease;
+  	-webkit-animation: sketch 2s ease;
 }
 
-@-moz-keyframes photoshop {
+.illustrator {
+   width: 32%;
+   -moz-animation: illustrator 2s ease;
+   -webkit-animation: illustrator 2s ease;
+}
+
+@-moz-keyframes java {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes angular {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 48%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes react {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 40%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 65%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes sketch {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 38%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-moz-keyframes illustrator {
+   0%   { width: 0px;  }
+   100% { width: 32%;  }
+ }
+
+@-webkit-keyframes java {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes angular {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 48%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes react {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 65%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes sketch {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 38%;  }
 }
 
+@-webkit-keyframes illustrator {
+   0%   { width: 0px;  }
+   100% { width: 32%;  }
+ }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
