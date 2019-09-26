@@ -15,7 +15,7 @@ export default class About extends Component {
                   I studied at Penn State University from 2012 to 2016 where I learned Information Sciences and Technology with a focus on People, Society and Organizations. 
                   I know that's a mouthful but it deals with human computer interaction. 
                   After college I spent most of my time at Liberty Mutual as a software developer on a User Experience team, and recently I chose to try out a new career as a recruiting and technology associate in an early stage startup called Percy.
-                  It has been a wild ride there and I have come to the conclusion that I have a passion for Software Development and am looking forward to the next step in mhy career.
+                  I have enjoyed my time there but have come to the conclusion that I have a passion for Software Development and am looking forward to the next step in my career.
                 </p>
                 <div className="row">
                 <div className="columns contact-details">

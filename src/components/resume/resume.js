@@ -15,10 +15,7 @@ export default class Resume extends Component {
                     <h3>Pennsylvania State University</h3>
                     <p className="info">B.S. Degree in Information Science and Technology <span>•</span> <em className="date">December 2016</em></p>
                     <p>
-                    This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                    Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                    nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                    ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                    
                     </p>
                 </div>
                 </div> {/* item end */}
@@ -88,8 +85,6 @@ export default class Resume extends Component {
                 <h1><span>Skills</span></h1>
             </div>
             <div className="nine columns main-col">
-                <p>Below is a list and gauge of my skills
-                </p>
                 <div className="bars">
                 <ul className="skills">
                     <li><span className="bar-expand html5" /><em>HTML5</em></li>
